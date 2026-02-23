@@ -1,0 +1,56 @@
+.line {
+  margin: 1rem 0;
+  line-height: 1.2;
+}
+
+.speaker {
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+.stack {
+  display: inline-grid;
+  grid-template-rows: auto auto;
+  justify-items: center;
+  margin: 0 0.15rem;
+}
+
+.char {
+  font-size: 1.4rem;
+}
+
+.py {
+  font-size: 0.7rem;
+  color: #666;
+}
+
+.en {
+  display: block;
+  margin-left: 2.2rem;
+  font-style: italic;
+  color: #444;
+}
+
+.sub {
+	display: block;
+	font-style: italic;
+	color: #666;
+}
+
+.big-cn {
+  font-size: 64px;
+  line-height: 64px;
+  display: inline-block;
+  font-family:
+    "Noto Sans CJK SC",
+    "Noto Serif CJK SC",
+    "PingFang SC",
+    "Microsoft YaHei",
+    system-ui,
+    sans-serif;
+}
+
+
+.line.a { color: #1e88e5; }
+.line.b { color: #c62828; }
+
