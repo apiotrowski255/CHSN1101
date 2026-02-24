@@ -44,7 +44,11 @@ LO8. demonstrate an insight into, and display interest in, Chinese studies.
 
 1. I refuse to get the zoom application. I would prefer to attend zoom session via web browser. [YouTube link 1](https://www.youtube.com/watch?v=0gNSYB052yA) and [YouTube link 2](https://www.youtube.com/watch?v=3qgoto6kAgg) for informative videos on why not to use zoom. 
 
-This website was made with mkdocs
+## Using YouTube as a resouce
+
+I view YouTube as a free online video storage. Therefore I will post my video recordings of the course to YouTube (But will unlist the videos). The whole playlist can be seen [here](https://www.youtube.com/playlist?list=PLVreLowe7hDXOrbzXCJ9XSmrn5zkGOKsL)
+
+This website was made with mkdocs. Using theme [Material for mkdocs](https://squidfunk.github.io/mkdocs-material/)
 
 ---
 

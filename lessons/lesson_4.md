@@ -6,9 +6,9 @@ Lesson time: 6:30pm to 8:30pm
 
 Lesson was held on a zoom session.
 
-Lecture slides
+Lecture slides [link](./lesson_4_files/W4 L1D2 Vocabulary - W4 L1D2 Vocabulary.pdf)
 
-Google classroom link
+Google classroom [link](https://classroom.google.com/u/1/c/ODQxNDc5MDkzMzI5)
 
 YouTube [link](https://www.youtube.com/watch?v=XoZeir5pNec)
 
@@ -47,24 +47,38 @@ This year was the year of the Horse :horse: .
 </span>
 </div>
 
+<div>
+<span class="stack">
+    <span class="char">新</span>
+    <span class="py">xīn</span>
+</span>
 
+<span class="stack">
+    <span class="char">年</span>
+    <span class="py">nián</span>
+</span>
+= New year
+</div>
 
-Xin Nian Kuai Le
+<div>
+<span class="stack">
+    <span class="char">快</span>
+    <span class="py">kuài</span>
+</span>
 
-Xin Nian = new year
-
-Kuai le = happy
-
-
+<span class="stack">
+    <span class="char">乐</span>
+    <span class="py">lè</span>
+</span>
+= Happy
+</div>
 
 ---
 
 ## Homework Feedback
 
-- writing is important - do not rely on pinyin.
-
-speaking - maintain tones
-
+- Writing is important - do not rely on pinyin.
+- Speaking: When speaking pay extra attention to tones and maintain the tones of the words.
 
 ---
 
@@ -98,7 +112,10 @@ speaking - maintain tones
 
 ## Vocab 2: Where are you from?
 
-Additional Dialogue and Vocab that was covered in the class. (From roughly the 56 minute mark in the YouTube video).
+Additional Dialogue and Vocab that was covered in the class. The vocab are the stepping stones for asking "Where are you from" type questions.
+
+??? Note
+    In the YouTube video this is roughly referencing the 56 minute mark. 
 
 ---
 
@@ -130,6 +147,9 @@ Additional Dialogue and Vocab that was covered in the class. (From roughly the 5
 <span class="big-cn">是</span>
 
 ![type:audio](./lesson_4_files/shi.mp3)
+
+??? Note
+    I believe 是 is more for adjectives rather than names. 
 
 <b>External resource</b>
 
@@ -592,43 +612,6 @@ dialogue continued
 
 ---
 
-### Country and place
-
-This section is not that important it is more of a overview of various other places
-
-- 英国 [Yīngguó] England; Britain :flag_gb:
-- 法国 [Fàguó] France :flag_fr:
-- 德国 [Déguó] Germany :flag_de:
-- 意大利 [Yìdàlì] Italy :flag_it:
-- 新西兰 [Xīnxīlán] / 纽西兰 [Niǔxīlán] New Zealand :flag_nz:
-- 日本 [Japan] :flag_jp:
-- 韩国 [Hánguó] South Korea :flag_kr:
-- 泰国 [Tàiguó] Thailand :flag_th:
-- 上海 [Shànghǎi] 
-
-<br>
-
-- 澳洲 [Àozhōu] / 澳大利亚 [Àodàlìyǎ] Australia :flag_au:
-- 悉尼 [Xīní] Sydney
-- 澳洲人 [Àozhōurén] Australian
-- 悉尼人 [Xīnírén] Sydneysider
-
-<br>
-
-- 墨尔本 [Mò'ěrběn] Melbourne
-- 布里斯班 [Bù lǐsī bān] Brisbane
-- 堪培拉 [Kānpéilā] Canberra
-
-
-!!! Note
-    澳洲 is preferred over 澳大利亚 since it is shorter
-
-<span class="big-cn">澳洲</span>
-
-![type:audio](./lesson_4_files/aozhou.mp3)
-
----
-
 ### 不 (bù)
 
 - no; not
@@ -752,6 +735,168 @@ This section is not that important it is more of a overview of various other pla
     </span>
 
 ---
+
+### 也 (yě)
+- means "also", "too" or "as well" in a sentence.
+- [Note] <span style="color:red;">也</span> is normally put after a <span style="color:blue">Subject</span> and before a <span style="color:pink">Verb</span>.
+    - <div> (:man_gesturing_ok:)
+        <span style="color:blue">
+            <span class="stack">
+                <span class="char">你</span>
+                <span class="py">nǐ</span>
+            </span>
+        </span>
+        <span style="color:pink;">
+            <span class="stack">
+                <span class="char">是</span>
+                <span class="py">shì</span>
+            </span>
+        </span>
+        <span class="stack">
+            <span class="char">老</span>
+            <span class="py">lǎo</span>
+        </span>
+        <span class="stack">
+            <span class="char">师</span>
+            <span class="py">shī</span>
+        </span>
+        ,
+        <span style="color:blue;">
+            <span class="stack">
+                <span class="char">我</span>
+                <span class="py">wǒ</span>
+            </span>
+        </span>
+        <span style="color:red;">
+            <span class="stack">
+                <span class="char">也</span>
+                <span class="py">yě</span>
+            </span>
+        </span>
+        <span style="color:pink;">
+            <span class="stack">
+                <span class="char">是</span>
+                <span class="py">shì</span>
+            </span>
+        </span>
+        <span class="stack">
+            <span class="char">老</span>
+            <span class="py">lǎo</span>
+        </span>
+        <span class="stack">
+            <span class="char">师</span>
+            <span class="py">shī</span>
+        </span>
+        。
+    </div>
+    (<span style="color:blue;">You</span> <span style="color:pink;">are</span> a teacher; <span style="color:blue">I</span> <span style="color:pink;">am</span> <span style="color:red;">also</span> a teacher.)
+    - (:x:) <span style="color:blue;">我</span><span style="color:pink">是</span><span style="color:red">也</span>老师
+    - (:x:) <span style="color:blue;">我</span><span style="color:pink">是</span>老师<span style="color:red">也</span>
+    - (:x:) <span style="color:red;">也</span><span style="color:blue;">我</span><span style="color:pink">是</span>老师
+- [Pattern] <span style="color:red">also</span> + <span style="color:pink">verb negation</span>
+    - <div>
+        <span style="color:blue;"> 
+            <span class="stack">
+                <span class="char">你</span>
+                <span class="py">nǐ</span>
+            </span>
+        </span>
+        <span style="color:pink">
+            <span class="stack">
+                <span class="char">不</span>
+                <span class="py">bù</span>
+            </span>
+            <span class="stack">
+                <span class="char">是</span>
+                <span class="py">shì</span>
+            </span>
+        </span>
+        <span class="stack">
+            <span class="char">老</span>
+            <span class="py">lǎo</span>
+        </span>
+        <span class="stack">
+            <span class="char">师</span>
+            <span class="py">shī</span>
+        </span>
+        ,
+        <span style="color:blue;">
+            <span class="stack">
+                <span class="char">我</span>
+                <span class="py">wǒ</span>
+            </span>
+        </span>
+        <span style="color:red;">
+            <span class="stack">
+                <span class="char">也</span>
+                <span class="py">yě</span>
+            </span>
+        </span>
+        <span style="color:pink;">
+            <span class="stack">
+                <span class="char">不</span>
+                <span class="py">bù</span>
+            </span>
+            <span class="stack">
+                <span class="char">是</span>
+                <span class="py">shì</span>
+            </span>
+        </span>
+        <span class="stack">
+            <span class="char">老</span>
+            <span class="py">lǎo</span>
+        </span>
+        <span class="stack">
+            <span class="char">师</span>
+            <span class="py">shī</span>
+        </span>
+        。
+    </div>
+- [Practice]
+    - 
+
+---
+
+### Country and place
+
+This section is not that important it is more of a overview of other places. Memorisation is not required.
+
+- 英国 [Yīngguó] England; Britain :flag_gb:
+- 法国 [Fàguó] France :flag_fr:
+- 德国 [Déguó] Germany :flag_de:
+- 意大利 [Yìdàlì] Italy :flag_it:
+- 新西兰 [Xīnxīlán] / 纽西兰 [Niǔxīlán] New Zealand :flag_nz:
+- 日本 [Japan] :flag_jp:
+- 韩国 [Hánguó] South Korea :flag_kr:
+- 泰国 [Tàiguó] Thailand :flag_th:
+- 上海 [Shànghǎi] 
+
+<br>
+
+- 澳洲 [Àozhōu] / 澳大利亚 [Àodàlìyǎ] Australia :flag_au:
+- 悉尼 [Xīní] Sydney
+- 澳洲人 [Àozhōurén] Australian
+- 悉尼人 [Xīnírén] Sydneysider
+
+<br>
+
+- 墨尔本 [Mò'ěrběn] Melbourne
+- 布里斯班 [Bù lǐsī bān] Brisbane
+- 堪培拉 [Kānpéilā] Canberra
+
+
+!!! Note
+    澳洲 is preferred over 澳大利亚 since it is shorter
+
+<span class="big-cn">澳洲</span>
+
+![type:audio](./lesson_4_files/aozhou.mp3)
+
+---
+
+
+
+
 
 ## Dialogue
 

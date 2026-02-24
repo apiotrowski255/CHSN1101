@@ -473,9 +473,11 @@ The whole worksheet can be seen [here](../homework/homework_1_files/W1-5 Workboo
 
 ---
 
-## Chinese Characters 
+## Vocab 1: What is your name? 
 
-### Nǐ 你
+The list below is chinese characters that are used to ask for people's names as well as introduce yourself.
+
+### 你 (nǐ) 
 
 - {== Core meaning==}: You (single)
 
@@ -489,7 +491,7 @@ The whole worksheet can be seen [here](../homework/homework_1_files/W1-5 Workboo
  
 ---
 
-### Wǒ 我
+### 我 (wǒ) 
 
 - {== Core meaning==}: I; me
 
@@ -504,7 +506,7 @@ The whole worksheet can be seen [here](../homework/homework_1_files/W1-5 Workboo
 
 ---
 
-### Hǎo 好
+### 好 (hǎo) 
 
 - {== Core meaning==}: good
 - Minimal acknowledgement, like YES, or Okay
@@ -523,7 +525,7 @@ The whole worksheet can be seen [here](../homework/homework_1_files/W1-5 Workboo
 
 ---
 
-### Qǐng 请
+### 请 (qǐng) 
 
 - {== Core meaning==}: polite request/ invitation/ ask
 - Please ..., May I ..., Would you please ...
@@ -542,7 +544,7 @@ The whole worksheet can be seen [here](../homework/homework_1_files/W1-5 Workboo
 
 ---
 
-### Wèn 问
+### 问 (wèn) 
 - {== Core meaning==}: to ask/ inquire/ seek information
 - [Combination]
     - 请问 (qǐng wèn) ...
@@ -563,7 +565,7 @@ The whole worksheet can be seen [here](../homework/homework_1_files/W1-5 Workboo
 
 --- 
 
-### Jiào 叫
+### 叫 (jiào)
 - {== Core meaning==}: to be called; to call
 - [Example]
     - 我叫 Alex (“I am called Alex” → literally “I call (myself) Alex”)
@@ -579,7 +581,7 @@ The whole worksheet can be seen [here](../homework/homework_1_files/W1-5 Workboo
 
 ---
 
-### Shén me 什么
+### 什么 (shén me)
 - {== Core meaning==}: what
 - What?
 - WHAT!!
@@ -595,7 +597,7 @@ The whole worksheet can be seen [here](../homework/homework_1_files/W1-5 Workboo
 
 --- 
 
-### Míng zì 名字
+### 名字 (míng zì)
 - Means "name"
 - {== Core meaning==}
     - 名 (míng): name, particularly given name
@@ -613,7 +615,7 @@ The whole worksheet can be seen [here](../homework/homework_1_files/W1-5 Workboo
 
 ---
 
-### Guì 贵
+### 贵 (guì) 
 
 - {== Core meaning==} Honourable
 - [Cultural Note]
@@ -633,7 +635,7 @@ The whole worksheet can be seen [here](../homework/homework_1_files/W1-5 Workboo
 
 ---
 
-### Xìng 姓
+### 姓 (xìng)
 - {==Core meaning==} surname, family name
     - (one's) surname is ...
     - to be surnamed
@@ -661,7 +663,7 @@ The whole worksheet can be seen [here](../homework/homework_1_files/W1-5 Workboo
 
 ---
 
-### Nǐ guì xìng 你贵姓 
+### 你贵姓 (nǐ guì xìng)
 - What is your honourable surname?
 - [Example]
     - A: 你贵姓 (Nǐ guì xìng)
@@ -676,7 +678,7 @@ The whole worksheet can be seen [here](../homework/homework_1_files/W1-5 Workboo
 
 ---
 
-### Ne/Nē 呢
+### 呢 (ne/nē)
 
 - Question particle, usually for an open question, e.g. 你呢? (Nǐ ne) - How about you? 
 - [Note] For Yes-No questions, usually use 吗 (ma) (see Dialogue 2).
@@ -699,7 +701,7 @@ ni ne audio
 
 ---
 
-### Wáng (王) & Lǐ (李)
+### 王 (wáng) & 李 (lǐ)
 
 - Two very common family names
 - [Core meaning]
@@ -716,7 +718,7 @@ ni ne audio
 
 ---
 
-### Xiǎo jiě 小 姐
+### 小姐 (xiǎo jiě)
 - Miss/Ms; Young lady
 - [Pattern] <span style="color:darkred">Family Name</span> + <span style="color:red"> 小姐 (xiǎojiě)</span>
     - <span style="color:red">Ms</span> <span style="color:darkred">Wang</span> = <span style="color:darkred">王</span><span style="color:red">小姐</span> (<span style="color:darkred">wáng</span> <span style="color:red">xiǎojiě</span>)
@@ -735,7 +737,7 @@ ni ne audio
 
 ---
 
-### Xiān sheng/shēng 先 生
+### 先生 (xiān sheng/shēng)
 
 - Mr.;husband; teacher (old way)
 - [Pattern] <span style="color:darkblue">Family name</span> + <span style="color:blue">先生 (xiānshēng)</span>
