@@ -40,7 +40,8 @@
 .big-cn {
   font-size: 64px;
   line-height: 64px;
-  display: inline-block;
+  display: block;
+  text-align: center;
   font-family:
     "Noto Sans CJK SC",
     "Noto Serif CJK SC",
@@ -53,4 +54,22 @@
 
 .line.a { color: #1e88e5; }
 .line.b { color: #c62828; }
+.line.c { color: #3cb371; }
 
+.line-underscore {
+  flex: 1;
+  border-bottom: 1.5px solid black;
+  height: 1em;
+}
+
+.line-underscore-arrow {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  width: 100%;
+}
+
+/* Dark mode */
+[data-md-color-scheme="slate"] .line-underscore {
+  border-bottom-color: white;
+}
