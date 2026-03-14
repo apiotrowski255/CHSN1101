@@ -22,11 +22,15 @@ Pronounication
 
 ---
 
-## Workbook: Tone Combination Exercise
+## Workbook
 
-Page reference 12 and 13
+### Tone Combination Exercise 
 
-### A: Multisyllabic Words
+#### A: Multisyllabic Words
+
+Workbook reference [link](../workbook.pdf#page=12)
+
+Listen to the words in the audio, then indicate the tones with 1 (first tone), 2 (second tone), 3 (third tone), 4 (fourth tone), or 0 (neutral tone) in the spaces provided. Note that the images in exercise A depict the meaning of the words.
 
 ![type:audio](./lesson_5_files/IC1_4E_WB_Basics_08_ToneCombinationExercise_A.mp3)
 
@@ -38,7 +42,7 @@ Page reference 12 and 13
 |<span style="font-size: 4em;">:banana:</span>|<span style="font-size: 4em;">:apple:</span>|<span style="font-size: 4em;">:strawberry:</span>|<span style="font-size: 4em;">:shirt:</span>|<span style="font-size: 4em;">:necktie:</span>|<span style="font-size: 4em;">:jeans:</span>
 | | | | | | |
 
-### Answers
+<b>Answers</b>
 
 ??? "Click to reveal"
     |1|2|3|4|5|6|
@@ -77,7 +81,7 @@ Page reference 12 and 13
 | 19   | kāishǐ      | kāixǐ       | kāisǐ       | begin                |
 | 20   | lòudiǎn     | liùdiǎn     | liùdǎn      | six o’clock          |
 
-### Answers
+<b>Answers</b>
 
 ??? "Click to reveal"
     | No.  | a. Option   | b. Option   | c. Option   | Translation          |
@@ -132,7 +136,7 @@ Workbook page reference [17](../workbook.pdf#page=26)
 3. \____ Mr. Wang is American
 4. \____ Miss Li is Chinese
 
-#### Answers
+<b>Answers</b>
 
 ??? "Click to reveal"
     1. True  Miss Li is a student
@@ -152,7 +156,7 @@ Listen to the Workbook Dialogue 1 audio, then mark these statements true or fals
 3. \____ The man is Chinese and the woman is American.
 4. \____ The man is American and the woman is Chinese.
 
-#### Answers
+<b>Answers</b>
 
 ??? "Click to reveal"
     1. False Both the man and the woman are Chinese.
@@ -160,5 +164,19 @@ Listen to the Workbook Dialogue 1 audio, then mark these statements true or fals
     3. True  The man is Chinese and the woman is American.
     4. False The man is American and the woman is Chinese.
 
+#### Exercise C
 
+Listen to the Workbook Dialogue 2 audio, then mark these statements true or false.
 
+![type:audio](./lesson_5_files/IC1_4E_TB_L01_Dialogue2.mp3)
+
+1. \____ Both the man and the woman are teachers. 
+2. \____ Both the man and the woman are students. 
+3. \____ The man is a teacher. The woman is a student. 
+4. \____ The man is a student. The woman is a teacher.
+
+??? "Click to reveal"
+    1. False Both the man and the woman are teachers.
+    2. True Both the man and the woman are students.
+    3. False The man is a teacher. The woman is a student.
+    4. False The man is a student. The woman is a teacher.
